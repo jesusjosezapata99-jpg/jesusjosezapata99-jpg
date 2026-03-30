@@ -67,6 +67,6 @@
 ## 📈 Analytics & GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusjosezapata99-jpg&show_icons=true&theme=bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusjosezapata99-jpg&layout=compact&theme=bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jesusjosezapata99-jpg&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesusjosezapata99-jpg&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" />
 </div>
