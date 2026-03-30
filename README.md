@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Jesús Zapata 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+%26+Operations+Analyst;Predictive+Modeling+Specialist;Power+BI+%26+Python+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Data+%26+Operations+Analyst;Agile+Project+Manager;AI-Assisted+Prototyping;Power+BI+%26+Python+Expert" alt="Typing SVG" />
   <p><i>Transforming complex data models and operational pipelines into strategic, actionable business insights.</i></p>
   
   <p>
@@ -17,6 +17,7 @@
 - 🏗️ Architecting operational data models and creating interactive dashboards in **Power BI**.
 - ⚙️ Optimizing supply chain and logistics processes with continuous improvement frameworks (**Lean Six Sigma / DMAIC**).
 - 🧠 Focused on predictive modelling, SLA compliance, KPI tracking, and cross-functional team alignment.
+- 🚀 Accelerating web app prototyping and technical delivery via advanced LLMs (**Claude Opus**, **Claude Code**, **Codex**) alongside **Agile Project Management** frameworks.
 
 ---
 
@@ -46,6 +47,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Lean_Six_Sigma-000000?style=for-the-badge&logo=lean&logoColor=white" />
+</p>
+
+### AI Prototyping & Management
+<p>
+  <img src="https://img.shields.io/badge/Claude_Opus-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
