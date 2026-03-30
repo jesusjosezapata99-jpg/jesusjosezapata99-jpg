@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Jesús Zapata 👋</h1>
-  <p><strong>Data & Operations Analyst</strong></p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+%26+Operations+Analyst;Predictive+Modeling+Specialist;Power+BI+%26+Python+Expert" alt="Typing SVG" />
   <p><i>Transforming complex data models and operational pipelines into strategic, actionable business insights.</i></p>
   
   <p>
@@ -66,6 +66,10 @@
 
 ## 📈 Analytics & GitHub Stats
 
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jesusjosezapata99-jpg&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" alt="Activity Graph" />
+</div>
+<br />
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jesusjosezapata99-jpg&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesusjosezapata99-jpg&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" />
